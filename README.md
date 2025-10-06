@@ -7,7 +7,7 @@ a very cheap and basic switched usb 2.0 hub design based on:
 - CH340C USB - serial adapter
 - STM32F030F4Px microcontroller
 
-the mcu that talks with the PC over UART and toggles some FETs using GPIOs. nothing fancy.
+the mcu talks with the PC over UART and toggles some FETs using GPIOs. nothing fancy.
 
 <img src="pcb.png">
 
